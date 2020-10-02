@@ -1,2 +1,2 @@
-# flask
-corey schafer flask blog tutorial
+# Flask - A Micro framework in Python
+Flask tutorial by corey schafer to create a blogging website
